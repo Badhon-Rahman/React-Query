@@ -1,0 +1,48 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "Name": "iPhone"
+        },
+        {
+            "id": 2,
+            "Name": "Samsung"
+        },
+        {
+            "id": 3,
+            "Name": "Realme"
+        },
+        {
+            "id": 4,
+            "Name": "OnePlus"
+        },
+        {
+            "id": 5,
+            "Name": "Ridmi"
+        }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "Name": "Rasel",
+            "CourseId": 1
+        },
+        {
+            "id": 2,
+            "Name": "Snigdha",
+            "CourseId": 3
+        },
+        {
+            "id": 3,
+            "Name": "Jihan",
+            "CourseId": 2
+        },
+        {
+            "id": 4,
+            "Name": "Osama",
+            "CourseId": 2
+        }
+    ]
+
+}
